@@ -1,0 +1,4 @@
+CREATE TABLE IF EXISTS pessoas (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    nome TEXT   
+);
